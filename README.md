@@ -9,7 +9,7 @@
 - 💻 I have previously worked at Pangenomic Health Corp. in frontend development, and am actively seeking internships beginning in May 2022.
 
 
-### Let's Connect!:
+### Let's Connect!
 <div>
  <a href="https://www.linkedin.com/in/djpbyrne/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ritchie-xia-1b5052206/"></a>   
 </div>
