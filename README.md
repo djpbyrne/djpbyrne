@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Declan (he/him) 👋
 
-<!--
-**djpbyrne/djpbyrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a third year computer engineering student at the University of British Columbia at the beautiful Vancouver Campus.
 
-Here are some ideas to get you started:
+#### A little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm currently finishing up my third year, and expect to graduate in May 2024 with a BASc in Computer Engineering.
+- ✏️ Right now I am learning and applying concepts in Computer Graphics and Machine Learning through both school courses and projects.
+- 💻 I have previously worked at Pangenomic Health Corp. in frontend development, and am actively seeking internships beginning in May 2022.
+
+
+### Let's Connect!:
+<div>
+ <a href="https://www.linkedin.com/in/djpbyrne/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ritchie-xia-1b5052206/"></a>   
+</div>
