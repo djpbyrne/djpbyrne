@@ -6,7 +6,7 @@
 
 - 🏫 I'm currently finishing up my third year, and expect to graduate in May 2024 with a BASc in Computer Engineering.
 - ✏️ Right now I am learning and applying concepts in Computer Graphics and Machine Learning through both school courses and projects.
-- 💻 I have previously worked at Pangenomic Health Corp. in frontend development, and am actively seeking internships beginning in May 2022.
+- 💻 I currently work at Pangenomic Healh Corp as a Software Engineering Intern. I am also actively seeking out internship opportunities for Fall 2022.
 
 
 ### Let's Connect!
