@@ -1,6 +1,6 @@
 ### Hi, I'm Declan (he/him) 👋
 
-### I am a third year computer engineering student at the University of British Columbia at the beautiful Vancouver Campus.
+### I am a fourth year computer engineering student at the University of British Columbia at the beautiful Vancouver Campus.
 
 #### A little bit about me:
 
