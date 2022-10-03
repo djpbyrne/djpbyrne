@@ -4,9 +4,8 @@
 
 #### A little bit about me:
 
-- 🏫 I'm currently finishing up my third year, and expect to graduate in May 2024 with a BASc in Computer Engineering.
-- ✏️ Right now I am learning and applying concepts in Computer Graphics and Machine Learning through both school courses and projects.
-- 💻 I currently work at Pangenomic Healh Corp as a Software Engineering Intern. I am also actively seeking out internship opportunities for Fall 2022.
+- 🏫 I'm currently in my fourth year, and expect to graduate in May 2024 with a BASc in Computer Engineering.
+- 💻 I currently work as a Junior Software Engineer in the UBC Electrial and Computer Engineering department.
 
 
 ### Let's Connect!
