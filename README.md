@@ -5,7 +5,8 @@
 #### A little bit about me:
 
 - 🏫 I'm currently in my fourth year, and expect to graduate in May 2024 with a BASc in Computer Engineering.
-- 💻 I currently work as a Junior Software Engineer in the UBC Electrial and Computer Engineering department.
+- 🇨🇭 Right now I'm studying at EPFL in Lausanne Switzerland for a semester, taking courses related to machine learning, quantum computation, and database management!
+- 💻 Seeking full time software development opportunities beginning Fall 2024.
 
 
 ### Let's Connect!
